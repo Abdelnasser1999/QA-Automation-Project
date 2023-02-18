@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 public class SocialMediaIntegrationFlowPOM {
 
     public static WebElement getFacebookView(){
-        return Setup.driver.findElement(By.xpath("//*[@id=\"footer\"]/div[5]/div/ul/li[1]/a"));
+        return Setup.driver.findElement(By.xpath("//*[@id=\"footer\"]/div[5]/div/ul/li[1]"));
     }
 
     public static WebElement getTwitterView(){

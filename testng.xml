@@ -25,4 +25,12 @@
         </classes>
     </test>
 
+    <test name="SocialMediaIntegrationFlow">
+        <classes>
+            <class name="ConfigData.Setup"></class>
+            <class name="SocialMediaIntegrationFlow.SocialMediaIntegrationFlow"></class>
+            <class name="ConfigData.TearDown"></class>
+        </classes>
+    </test>
+
 </suite>
