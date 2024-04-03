@@ -1,4 +1,4 @@
-# AutomationFinalProject
+# QA Automation Project
 
 هذا المشروع يحتوي 4 مسارات محتملة للمستخدم \
 المسار الاول : تصفح جميع صفحات المنتجات\
